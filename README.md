@@ -10,6 +10,10 @@ NeonOS 是一个用 Rust 语言编写的类 UNIX/OS 操作系统，它的目标�
   文件系统
 ```
 
+```NeonOS.sh
+user@NeonOS #
+> print "Hello Wrold!"
+```
 
 
  0 | 1 | 2 | 3 
