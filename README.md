@@ -13,6 +13,8 @@ NeonOS 是一个用 Rust 语言编写的类 UNIX/OS 操作系统，它的目标�
 ```
 root : 超级用户权限 / 系统用户及权限
 user : 空白用户
+root-ui : ?
+user-ui : ?
 ```
 
 
