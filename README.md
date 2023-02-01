@@ -19,13 +19,13 @@ user-ui : ?
 
 
 ```NeonOS.sh
-user@NeonOS-CN#path
+user@NeonOS-1.0#path
 & print "Hello Wrold!"
 ```
 
 
 ```NeonOS.sh
-user@NeonOS-CN#path
+user@NeonOS-1.0#path
 > print "Hello Wrold!"
 > Hello Wrold!
 ```
