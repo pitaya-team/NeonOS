@@ -5,6 +5,8 @@ NeonOS 是一个用 Rust 语言编写的类 UNIX/OS 操作系统，它的目标�
 
 教程：https://www.bookstack.cn/books/writing-an-os-in-rust
 
+项目 https://github.com/hanbings/NanoOS
+
 > x86_64 #架构
 ```
 命令行界面，操作系统:
